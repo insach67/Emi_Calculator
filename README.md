@@ -1,13 +1,12 @@
 # EMI-Calculator
 
  ## Features :
-  <p>--> Calculate EMI</p>
-  <p> --> Show all previous history</p>
-  <p> --> Each months EMI Table</p>
+  <p>Calculate EMI</p>
+  <p> Show previous history</p>
+  <p> Each months Name EMI Table</p>
 
   
-## Tech Stack    
-
+## Technologies i have used  
 
 - React Js
 - Redux
@@ -15,20 +14,7 @@
 - Local Storage
 - CSS3
 <hr>
-
-
-## Screenshots
-
-## Home
-
-
-<img src="https://user-images.githubusercontent.com/107308031/200562701-827afdd2-e019-41bd-b6b6-02328f83d783.png" />
-
-## Demo
-<img src="https://user-images.githubusercontent.com/107308031/200562906-6205a21e-ed0a-4e01-8f4e-ed2368e946e3.png" />
-
-## History
-
-<img src="https://user-images.githubusercontent.com/107308031/200563094-65000628-2d0b-461a-bf53-c5d6af09bd92.png" />
+## Demo-Link
+https://insachemicalulator.netlify.app/
 
 
